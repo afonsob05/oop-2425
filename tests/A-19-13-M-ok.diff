@@ -1,0 +1,19 @@
+*** tests/A-19-13-M-ok.out	2024-10-18 19:27:35.631681300 +0100
+--- tests/A-19-13-M-ok.outhyp	2024-10-25 06:43:18.987069181 +0100
+***************
+*** 17,23 ****
+  4 - Retirar responsabilidade
+  5 - Calcular satisfação de funcionário
+  0 - Sair
+! Escolha uma opção: Identificador único do funcionário: -86
+  Gestão de Funcionários
+  1 - Visualizar todos os funcionários
+  2 - Registar funcionário
+--- 17,23 ----
+  4 - Retirar responsabilidade
+  5 - Calcular satisfação de funcionário
+  0 - Sair
+! Escolha uma opção: Identificador único do funcionário: 300
+  Gestão de Funcionários
+  1 - Visualizar todos os funcionários
+  2 - Registar funcionário

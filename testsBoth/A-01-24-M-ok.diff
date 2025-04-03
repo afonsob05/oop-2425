@@ -1,0 +1,14 @@
+*** testsBoth/A-01-24-M-ok.out	2024-10-09 09:52:16.562345025 +0100
+--- testsBoth/A-01-24-M-ok.outhyp	2024-10-10 17:58:51.812373557 +0100
+***************
+*** 18,26 ****
+  4 - Mostrar vacinações
+  0 - Sair
+  Escolha uma opção: 1
+- VACINA|V3|Tétano|0|E1,E2,E3
+- VACINA|V4|Tétano 2|0|E1,E2
+- VACINA|V5|Tétano 3|0|E1,E2
+  Gestão de Vacinas
+  1 - Visualizar todas as vacinas
+  2 - Registar vacina
+--- 18,23 ----

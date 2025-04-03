@@ -1,0 +1,12 @@
+*** testsBoth/A-01-07-M-ok.out	2024-10-09 09:52:16.562345025 +0100
+--- testsBoth/A-01-07-M-ok.outhyp	2024-10-10 17:58:50.792373568 +0100
+***************
+*** 18,24 ****
+  4 - Calcular satisfação de animal
+  0 - Sair
+  Escolha uma opção: 1
+- ANIMAL|A1|Farrusco|E1|VOID|H1
+  Gestão de Animais
+  1 - Visualizar todos os animais
+  2 - Registar animal
+--- 18,23 ----

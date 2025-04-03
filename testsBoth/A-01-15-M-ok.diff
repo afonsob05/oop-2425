@@ -1,0 +1,12 @@
+*** testsBoth/A-01-15-M-ok.out	2024-10-09 09:52:16.562345025 +0100
+--- testsBoth/A-01-15-M-ok.outhyp	2024-10-10 17:58:51.322373563 +0100
+***************
+*** 19,25 ****
+  5 - Calcular satisfação de funcionário
+  0 - Sair
+  Escolha uma opção: 1
+- TRT|W24|Rohit Figueiredo
+  Gestão de Funcionários
+  1 - Visualizar todos os funcionários
+  2 - Registar funcionário
+--- 19,24 ----

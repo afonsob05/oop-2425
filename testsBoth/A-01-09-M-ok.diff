@@ -1,0 +1,17 @@
+*** testsBoth/A-01-09-M-ok.out	2024-10-09 09:52:16.562345025 +0100
+--- testsBoth/A-01-09-M-ok.outhyp	2024-10-10 17:58:50.992373566 +0100
+***************
+*** 18,29 ****
+  4 - Calcular satisfação de animal
+  0 - Sair
+  Escolha uma opção: 1
+- ANIMAL|A1|Farrusco 1|E1|VOID|H1
+- ANIMAL|A2|Farrusco 2|E1|VOID|H1
+- ANIMAL|A3|Farrusco 3|E1|VOID|H2
+- ANIMAL|B1|Farrusco 4|E1|VOID|H2
+- ANIMAL|X1|Farrusco 5|E1|VOID|H3
+- ANIMAL|X2|Farrusco 6|E1|VOID|H3
+  Gestão de Animais
+  1 - Visualizar todos os animais
+  2 - Registar animal
+--- 18,23 ----

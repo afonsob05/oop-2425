@@ -1,0 +1,50 @@
+*** testsBoth/A-01-14-M-ok.out	2024-10-09 09:52:16.562345025 +0100
+--- testsBoth/A-01-14-M-ok.outhyp	2024-10-10 17:58:51.242373563 +0100
+***************
+*** 11,17 ****
+  10 - Consultas
+  0 - Sair
+  Escolha uma opção: 2
+- Ficheiro a abrir: ap01.dat
+  Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+--- 11,16 ----
+***************
+*** 24,29 ****
+--- 23,30 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
++ Escolha uma opção: ap01.dat
++ Número inválido!
+  Escolha uma opção: 6
+  Gestão de Animais
+  1 - Visualizar todos os animais
+***************
+*** 32,43 ****
+  4 - Calcular satisfação de animal
+  0 - Sair
+  Escolha uma opção: 1
+- ANIMAL|A1|Farrusco 1|E1|VOID|H1
+- ANIMAL|A2|Farrusco 2|E2|VOID|H1
+- ANIMAL|A3|Farrusco 3|E3|VOID|H2
+- ANIMAL|B1|Farrusco 4|E3|VOID|H2
+- ANIMAL|X1|Farrusco 5|E2|VOID|H3
+- ANIMAL|X2|Farrusco 6|E1|VOID|H3
+  Gestão de Animais
+  1 - Visualizar todos os animais
+  2 - Registar animal
+--- 33,38 ----
+***************
+*** 67,75 ****
+  6 - Mostrar árvores de habitat
+  0 - Sair
+  Escolha uma opção: 1
+- HABITAT|H1|ldeia dos Macacos|20|0
+- HABITAT|H2|ldeia dos Macacos|20|0
+- HABITAT|H3|ldeia dos Macacos|20|0
+  Gestão de Habitats
+  1 - Visualizar todos os habitats
+  2 - Registar habitat
+--- 62,67 ----

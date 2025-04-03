@@ -1,0 +1,16 @@
+*** testsBoth/A-01-05-M-ok.out	2024-10-09 09:52:16.562345025 +0100
+--- testsBoth/A-01-05-M-ok.outhyp	2024-10-10 17:58:50.702373569 +0100
+***************
+*** 20,30 ****
+  6 - Mostrar árvores de habitat
+  0 - Sair
+  Escolha uma opção: 1
+- HABITAT|AAAA|Aldeia dos Macacos 5|420|0
+- HABITAT|AR1|Aldeia dos Macacos 4|20|0
+- HABITAT|AX1|Aldeia dos Macacos 3|220|0
+- HABITAT|BAR1|Aldeia dos Macacos 2|320|0
+- HABITAT|XR11|Aldeia dos Macacos 1|420|0
+  Gestão de Habitats
+  1 - Visualizar todos os habitats
+  2 - Registar habitat
+--- 20,25 ----

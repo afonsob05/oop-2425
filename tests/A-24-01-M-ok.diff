@@ -1,0 +1,48 @@
+*** tests/A-24-01-M-ok.out	2024-10-18 19:27:35.599179700 +0100
+<<<<<<< HEAD
+--- tests/A-24-01-M-ok.outhyp	2024-10-25 06:43:20.107069180 +0100
+=======
+--- tests/A-24-01-M-ok.outhyp	2024-10-25 18:54:45.308962875 +0100
+>>>>>>> backup101024
+***************
+*** 16,34 ****
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
+  0 - Sair
+! Escolha uma opção: Identificador único do funcionário: Actos médicos de um veterinário: Operação inválida: O veterinário 'vet22' não existe.
+! Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
+  0 - Sair
+! Escolha uma opção: Identificador único do funcionário: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
+  0 - Sair
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+--- 16,35 ----
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
+  0 - Sair
+! Escolha uma opção: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
+  0 - Sair
+! Escolha uma opção: Número inválido!
+! Escolha uma opção: Consultas
+  1 - Animais de um habitat
+  2 - Actos médicos num animal
+  3 - Actos médicos de um veterinário
+  4 - Vacinações com problemas
+  0 - Sair
++ Escolha uma opção: Número inválido!
+  Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
